@@ -1,5 +1,5 @@
 /**
- *  Hello, World!
+ *  Java class that says Hello, World!
  */
 public class Hello {
   
