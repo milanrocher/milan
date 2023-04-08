@@ -1,2 +1,2 @@
-# Milan Rocher
+# Milan
 Repository for Stuff
